@@ -21,5 +21,9 @@ public class EstructurasEstaticas {
         System.out.println("La resta es: " + resta);
         System.out.println("La multiplicación es: " + multiplicacion);
         System.out.println("La división es: " + division);
+
+        // Otras estructuras de datos
+        char c = 'A'; // Entre comillas simples
+        String palabra = "Hola";
     }
 }

@@ -14,3 +14,8 @@ print("La suma es: ", suma)
 print("La resta es: ", resta)
 print("La multiplicación es: ", multiplicacion)
 print("La división es: ", division)
+
+## Otras estructuras de datos
+palabra = "Hola"
+for i in palabra:
+    print (i) ## Las String ocupan menos espacio de memoria, mientras que los char ocupan más.
