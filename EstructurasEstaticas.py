@@ -7,3 +7,10 @@ b = 11
 
 suma = a + b
 resta = a - b
+multiplicacion = a * b
+division = a / b
+
+print("La suma es: ", suma)
+print("La resta es: ", resta)
+print("La multiplicación es: ", multiplicacion)
+print("La división es: ", division)
