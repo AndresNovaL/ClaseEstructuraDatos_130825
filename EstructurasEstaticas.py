@@ -19,3 +19,9 @@ print("La división es: ", division)
 palabra = "Hola"
 for i in palabra:
     print (i) ## Las String ocupan menos espacio de memoria, mientras que los char ocupan más.
+
+c = 'H'
+d = 'O'
+e = 'L'
+f = 'A'
+print(c + d + e + f) ## Sumar letras sí es posible en Python. Esto es conocido como concatenar.

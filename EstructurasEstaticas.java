@@ -25,5 +25,15 @@ public class EstructurasEstaticas {
         // Otras estructuras de datos
         char c = 'A'; // Entre comillas simples
         String palabra = "Hola";
+        System.out.println("El caracter es: " + c);
+        System.out.println("La palabra es: " + palabra);
+
+        char d = 'H';
+        char e = 'O';
+        char f = 'L';
+        char g = 'A';
+
+        // String concatenar = d + e + f + g --> No es posible sumar letras en Java.
+        // System.out.println(concatenar)
     }
 }
