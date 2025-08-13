@@ -35,5 +35,8 @@ public class EstructurasEstaticas {
 
         // String concatenar = d + e + f + g --> No es posible sumar letras en Java.
         // System.out.println(concatenar)
+
+        Boolean z = true;
+        Boolean x = false; // los datos Boolean sólo pueden tener dos valores: True o False
     }
 }

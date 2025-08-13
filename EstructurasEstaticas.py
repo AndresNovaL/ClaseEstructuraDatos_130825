@@ -25,3 +25,6 @@ d = 'O'
 e = 'L'
 f = 'A'
 print(c + d + e + f) ## Sumar letras sí es posible en Python. Esto es conocido como concatenar.
+
+x = True
+y = False 
