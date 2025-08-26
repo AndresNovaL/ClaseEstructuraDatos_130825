@@ -2,18 +2,46 @@ public class EjemplosED {
     public static void main(String[] args) {
 
         // Estructura de Datos tipo Int
-        int años_edad = 19;
-        int año = 2025;
-        int dias_semana = 7;
-        int manzanas = 12;
-        int cantidad_pisos = 20;
+        int edadPersona = 20;
+        int distanciaBogotaMedellin = 415000;
+        int puntajePartida = 1250;
+        int cantidadEstudiantes = 32000;
+        int saldoCuenta = -500;
+
+        // Estructura de Datos tipo Byte
+        byte diasSemana = 7;
+        byte nivelBateria = 85;
+        byte edadMascota = 12;
+        byte temperaturaFrio = -10;
+        byte calificacion = 5;
+
+        // Estructura de Datos tipo Short
+        short poblacionCiudad = 25000;
+        short anioConstruccion = 1998;
+        short cantidadLibros = 1200;
+        short alturaEdificio = 320;
+        short numeroVuelo = 1456;
+
+        // Estructura de Datos tipo Long
+        long distanciaGalaxia = 9460730472580800L;
+        long deudaExterna = 120000000000L;
+        long estrellasUniverso = 200000000000L;
+        long numeroSerie = 9876543212345L;
+        long visitasYoutube = 4500000000L;
+
+        // Estructura de Datos tipo Float
+        float precioCafe = 3.75f;
+        float alturaPersona = 1.72f;
+        float velocidadCoche = 98.6f;
+        float notaExamen = 4.5f;
+        float tasaInteres = 2.35f;
 
         // Estructura de Datos tipo Double
-        double tiempo = 12.5;
-        double temperatura = 36.6;
-        double distancia = 12.5;
-        double velocidad = 89.5;
-        double masa = 72.3;
+        double pi = 3.141592653589793;
+        double constantePlanck = 6.62607015e-34;
+        double euler = 2.718281828459045;
+        double areaCirculo = 78.53981633974483;
+        double masaElectron = 9.1093837015e-31;
 
         // Estructura de Datos tipo Char
         char a = 'J';

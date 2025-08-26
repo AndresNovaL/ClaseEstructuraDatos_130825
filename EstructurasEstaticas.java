@@ -3,6 +3,8 @@ public class EstructurasEstaticas {
 
         // Las estructuras estáticas no se cambian.
 
+        // Tipo estándar de dato para guardar números no muy grandes.
+        // Da buen balance entre rango y memoria
         int a = 10;
         int b = 11;
 
@@ -13,9 +15,21 @@ public class EstructurasEstaticas {
         double multiplicacion = a * b;
         // Optional Division = a / b --> Optinal no es un tipo de dato. No genera error.
         // Puede ser utilizado en divisiones por cero.
+
+        // double -> Mayor precisión en números con bastantes decimales (15-16 dígitos aprox)
         double division = a / b;
 
-        // long c = 30000000000000L
+        // Dato de tipo 'byte' (8 bits, -128 a 127)
+        byte edad = 25; // Datos que requieren poco espacio
+
+        // Dato de tipo 'short' (16 bits, -32,768 a 32,767)
+        short poblacionPueblo = 15000; // Datos que requieren espacio intermedio
+
+        // Dato de tipo 'long' (64 bits, números enteros grandes)
+        long poblacionMundial = 8000000000L; // Datos que requieren bastante espacio
+
+        // float -> Menos precisión en números con bastantes decimales (7 dígitos aprox)
+        float precio = 19.99f;
 
         System.out.println("La suma es: " + suma);
         System.out.println("La resta es: " + resta);
