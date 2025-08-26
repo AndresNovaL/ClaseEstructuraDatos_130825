@@ -1,3 +1,6 @@
+## En Python no existen 'byte', 'short', 'long' de forma separada. Todo se maneja con 'int' que no tiene límite de tamaño.
+## En Python se utiliza Float que es equivalente a un Double en Java. Tiene la misma capacidad de tamaño.
+
 ## Las variables estáticas no se cambian.
 
 a = 10
